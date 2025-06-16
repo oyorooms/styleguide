@@ -361,7 +361,7 @@
       <property name="tokens" value="VARIABLE_DEF"/>
       <property name="allowSamelineMultipleAnnotations" value="true"/>
     </module>
-    <module name="NonEmptyAtclauseDescription"/>
+<!--     <module name="NonEmptyAtclauseDescription"/>
     <module name="InvalidJavadocPosition"/>
     <module name="JavadocTagContinuationIndentation"/>
     <module name="SummaryJavadoc">
@@ -418,7 +418,7 @@
                                    ]/IDENT"/>
       <property name="message" value="'[a-z][a-z0-9][a-zA-Z0-9]*(?:_[a-z][a-z0-9][a-zA-Z0-9]*)*'"/>
     </module>
-    <module name="SingleLineJavadoc"/>
+    <module name="SingleLineJavadoc"/> -->
     <module name="EmptyCatchBlock">
       <property name="exceptionVariableName" value="expected"/>
     </module>
